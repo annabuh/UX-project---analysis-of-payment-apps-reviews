@@ -28,7 +28,7 @@ Source: [Kaggle — UPI Payment Apps Review Dataset](https://www.kaggle.com/data
 ### Negative Reviews - Main complaints in usability of product
 Analysis of high-TF-IDF terms in negative reviews revealed two primary complaint clusters:
 
-**Update-related issues** (word "update" appears in 65.6% of negative reviews):
+**Update-related issues** (word "update" appears in 65.6% cases in negative reviews):
 - Updates removing saved payment cards
 - App performance got slower after updates
 - Forced logouts of users following updates
